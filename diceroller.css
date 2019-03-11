@@ -1,0 +1,107 @@
+body {
+	background-color: black;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: Arial;
+}
+
+div	{
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: white;
+	font-size: 25px;
+	font-weight: normal;
+	text-align: center;
+}
+
+label {
+	display: inline-block;
+	width: 64px;
+	color: white;
+	font-size: 20px;
+}
+
+main {
+	background-image: radial-gradient(orange, black);
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+#d4Form {
+	margin-top: 0px;
+}
+
+#diceBlock {
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.7);
+	width: 600px;
+	padding: 30px;
+	padding-top: 10px;
+	display: inline-block;
+}
+
+#diceImageBlock {
+	width: 500px;
+	padding: 0;
+	margin: 0;
+	margin-top: 15px;
+	margin-left: 50px;
+	text-align: center;
+}
+
+#leftLabel {
+	float: left;
+}
+
+#resultsWindow {
+	width: 480px;
+	height: 150px;
+	background-color: rgba(255, 255, 255, 0.7);
+	text-align: left;
+	margin-left: 60px;
+	padding: 4px;
+	color: black;
+	font-size: 12px;
+	overflow: scroll;
+}
+
+#rightLabel {
+	float: right;
+	margin-right: 90px;
+}
+
+#labelBlock {
+	display: inline-block;
+	width: 410px;
+}
+
+.diceImage{
+	width: 65px;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+
+.diceLabel{
+	color: white;
+	font-size: 22px;
+}
+
+.forms {
+	margin: 10px;
+	padding: 5px;
+}
+
+.result {
+	color: white;
+	font-size: 20px;
+	vertical-align: center;
+}
