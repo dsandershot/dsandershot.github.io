@@ -1,18 +1,10 @@
 body {
-<<<<<<< HEAD
 	background-color: #000000;
-=======
-	background-color: black;
->>>>>>> 63fe21e96347f827d5147e5a711b54c95d0f57da
 	height: 100%;
 	margin: 0;
 	padding: 0;
 	text-align: center;
-<<<<<<< HEAD
 	font-family: Arial, sans-serif;
-=======
-	font-family: Arial;
->>>>>>> 63fe21e96347f827d5147e5a711b54c95d0f57da
 }
 
 div	{
@@ -21,17 +13,12 @@ div	{
 }
 
 h1 {
-<<<<<<< HEAD
 	color: #ffffff;
-=======
-	color: white;
->>>>>>> 63fe21e96347f827d5147e5a711b54c95d0f57da
 	font-size: 25px;
 	font-weight: normal;
 	text-align: center;
 }
 
-<<<<<<< HEAD
 input {
 	width: calc(50% - 100px);
 }
@@ -40,12 +27,6 @@ label {
 	display: inline-block;
 	width: 64px;
 	color: #ffffff;
-=======
-label {
-	display: inline-block;
-	width: 64px;
-	color: white;
->>>>>>> 63fe21e96347f827d5147e5a711b54c95d0f57da
 	font-size: 20px;
 }
 
@@ -65,31 +46,18 @@ p {
 #diceBlock {
 	text-align: center;
 	background-color: rgba(0, 0, 0, 0.7);
-<<<<<<< HEAD
 	max-width: 600px;
 	width: 100%;
-=======
-	width: 600px;
-	padding: 30px;
->>>>>>> 63fe21e96347f827d5147e5a711b54c95d0f57da
 	padding-top: 10px;
 	display: inline-block;
 }
 
 #diceImageBlock {
-<<<<<<< HEAD
 	max-width: 500px;
 	width: 100%;
 	padding: 0;
 	margin: 0;
 	display: inline-block;
-=======
-	width: 500px;
-	padding: 0;
-	margin: 0;
-	margin-top: 15px;
-	margin-left: 50px;
->>>>>>> 63fe21e96347f827d5147e5a711b54c95d0f57da
 	text-align: center;
 }
 
@@ -98,20 +66,12 @@ p {
 }
 
 #resultsWindow {
-<<<<<<< HEAD
 	max-width: 480px;
 	width: 100%;
 	display: inline-block;
 	height: 150px;
 	background-color: rgba(255, 255, 255, 0.7);
 	text-align: left;
-=======
-	width: 480px;
-	height: 150px;
-	background-color: rgba(255, 255, 255, 0.7);
-	text-align: left;
-	margin-left: 60px;
->>>>>>> 63fe21e96347f827d5147e5a711b54c95d0f57da
 	padding: 4px;
 	color: black;
 	font-size: 12px;
@@ -125,31 +85,19 @@ p {
 
 #labelBlock {
 	display: inline-block;
-<<<<<<< HEAD
 	max-width: 410px;
 	width: 100%;
 }
 
 .diceImage{
 	width: 13%;
-=======
-	width: 410px;
-}
-
-.diceImage{
-	width: 65px;
->>>>>>> 63fe21e96347f827d5147e5a711b54c95d0f57da
 	display: inline-block;
 	padding: 0;
 	margin: 0;
 }
 
 .diceLabel{
-<<<<<<< HEAD
 	color: #ffffff;
-=======
-	color: white;
->>>>>>> 63fe21e96347f827d5147e5a711b54c95d0f57da
 	font-size: 22px;
 }
 
@@ -159,7 +107,6 @@ p {
 }
 
 .result {
-<<<<<<< HEAD
 	color: #ffffff;
 	font-size: 20px;
 	vertical-align: center;
@@ -167,9 +114,4 @@ p {
 
 @media (max-width: 650px){
 
-=======
-	color: white;
-	font-size: 20px;
-	vertical-align: center;
->>>>>>> 63fe21e96347f827d5147e5a711b54c95d0f57da
 }
